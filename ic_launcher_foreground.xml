@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple open-book glyph. Replace this file (and ic_launcher_background) to change the app icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFF2C879"
+        android:pathData="M30,36 L52,40 L52,76 L30,72 Z" />
+    <path
+        android:fillColor="#FFE8B04A"
+        android:pathData="M78,36 L56,40 L56,76 L78,72 Z" />
+    <path
+        android:fillColor="#FF1E2430"
+        android:pathData="M52,40 L56,40 L56,76 L52,76 Z" />
+</vector>

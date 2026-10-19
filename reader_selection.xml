@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text-selection toolbar shown over the book. Each item is handled in ReaderActivity. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_copy"
+        android:orderInCategory="1"
+        android:title="@string/action_copy" />
+    <item
+        android:id="@+id/action_highlight"
+        android:orderInCategory="2"
+        android:title="@string/action_highlight" />
+    <item
+        android:id="@+id/action_translate"
+        android:orderInCategory="3"
+        android:title="@string/action_translate" />
+</menu>
